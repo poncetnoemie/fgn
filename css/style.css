@@ -1,0 +1,36 @@
+body,
+html {
+  box-sizing: border-box;
+  color: #3f395f;
+  font-family: arial, sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: grid;
+  place-items: center;
+}
+
+main {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+span {
+  display: block;
+}
+
+p {
+  line-height: 1.5;
+}
+
+h1 img {
+  height: auto;
+  width: 200px;
+  margin-bottom: 2rem;
+}
